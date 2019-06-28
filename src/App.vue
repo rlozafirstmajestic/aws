@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="k pdo Vue.js App"/>
+    <HelloWorld msg="iuhihiuho Vue.js App"/>
   </div>
 </template>
 
